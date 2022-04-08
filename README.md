@@ -13,6 +13,9 @@ Collection of commonly used network resources.
 ## algorithms
 
 ## language
+### python
+### php
+### golang
 
 ## tools
 
