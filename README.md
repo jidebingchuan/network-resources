@@ -24,28 +24,5 @@ https://www.jianshu.com/p/1303df962836
 # law
 # economy
 # culture
-# computer science
-## mathematics
-
-## operating system
-
-## network
-
-## data structure
-
-## algorithms
-
-## language
-### python
-### php
-### golang
-
-## tools
-
-## system design
-
-## business system
-
-## industry
 
 
